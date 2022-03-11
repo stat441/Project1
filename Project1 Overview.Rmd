@@ -21,7 +21,7 @@ There have been several checkpoints to scaffold the submission
 - February 23: Project Proposal 2 (Quiz 5)
 - March 2: Pilot Study (Quiz 6)
 - March 9: Sample Size Calculations (Quiz 7)
-- March 23: Complete Experimental Design plan (HW 8)
+- March 23: Complete Experimental Design plan (HW 3)
 
 #### Experimental Design Plan
 
